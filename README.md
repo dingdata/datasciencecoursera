@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science (Data Scientist's tool box
+Data Science (Data Scientist's tool box)
